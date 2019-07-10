@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.info{
+  display: inline-block;
+  width: 70%
+}
+
+.profile-pic{
+  display: inline-block;
+}
+
+img{
+  height:200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 50%
+}
+/* .michelleobama {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  display:inline-block;
+
+} */
+ section{
+   background-color: grey;
+   display: inline-block;
+   border: 100px solid white;
+ }
+
+#heading{
+  font-size: 200px
+  margin-top: 10px;
+  margin-bottom: 100px
+  font-family: "Arial", Verdana, sans-serif;
+  display: inline-block;
+}
